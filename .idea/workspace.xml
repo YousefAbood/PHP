@@ -19,7 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94a45ef0-89d6-41c4-a175-36bb54fb6ea0" name="Default Changelist" comment="Added variables &amp; Constructed quotes using these variables" />
+    <list default="true" id="94a45ef0-89d6-41c4-a175-36bb54fb6ea0" name="Default Changelist" comment="Added variables &amp; Constructed quotes using these variables">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/americaneagle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/dog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/dolphin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/fox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/lion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/monkey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/opdrachtOne.php" beforeDir="false" afterPath="$PROJECT_DIR$/h03/opdrachtOne.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/panda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/penguin.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604482682691</updated>
-      <workItem from="1604482692558" duration="8785000" />
+      <workItem from="1604482692558" duration="9466000" />
+      <workItem from="1604561766242" duration="1940000" />
     </task>
     <task id="LOCAL-00001" summary="Shows the text HelloWorld">
       <created>1604505124374</created>
@@ -95,6 +108,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Shows the text HelloWorld" />
