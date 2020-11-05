@@ -1,9 +1,8 @@
 <?php
 
-$images = array("americaneagle.jpg");
 
+for($index = 0; $index < 10; $index++) {
+    echo "<img src='apen/aap$index.jpg' alt=''>";
+}
 
-
-echo "<img src=americaneagle.jpg alt=''>";
-echo "<img src=cat.jpg alt=''>";
 
