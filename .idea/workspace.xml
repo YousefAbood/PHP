@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94a45ef0-89d6-41c4-a175-36bb54fb6ea0" name="Default Changelist" comment="Added variables &amp; Constructed quotes using these variables">
-      <change afterPath="$PROJECT_DIR$/h03/opdrachtThree.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h03/opdrachtFour.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604482682691</updated>
       <workItem from="1604482692558" duration="9466000" />
-      <workItem from="1604561766242" duration="5732000" />
+      <workItem from="1604561766242" duration="6854000" />
     </task>
     <task id="LOCAL-00001" summary="Shows the text HelloWorld">
       <created>1604505124374</created>
@@ -120,10 +120,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="92" y="92" width="1736" height="866" key="DirDiffDialog/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1604508126539" />
-    <state x="794" y="448" key="NewPhpFileDialog" timestamp="1604569752179">
+    <state x="794" y="448" key="NewPhpFileDialog" timestamp="1604573813750">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1604569752179" />
+    <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1604573813750" />
     <state x="552" y="245" key="Vcs.Push.Dialog.v2" timestamp="1604512135902">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
