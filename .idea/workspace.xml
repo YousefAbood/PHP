@@ -21,6 +21,17 @@
   <component name="ChangeListManager">
     <list default="true" id="94a45ef0-89d6-41c4-a175-36bb54fb6ea0" name="Default Changelist" comment="Added variables &amp; Constructed quotes using these variables">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/animalSelection/form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/animalSelection/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/animalSelection/resources/americaneagle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/animalSelection/resources/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/animalSelection/resources/dog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/animalSelection/resources/dolphin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/animalSelection/resources/fox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/animalSelection/resources/lion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/animalSelection/resources/monkey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/animalSelection/resources/panda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/animalSelection/resources/penguin.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +73,7 @@
       <workItem from="1604561766242" duration="18424000" />
       <workItem from="1604669697911" duration="4515000" />
       <workItem from="1604762271990" duration="3600000" />
-      <workItem from="1604993195246" duration="3800000" />
+      <workItem from="1604993195246" duration="8259000" />
     </task>
     <task id="LOCAL-00001" summary="Shows the text HelloWorld">
       <created>1604505124374</created>
