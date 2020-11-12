@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94a45ef0-89d6-41c4-a175-36bb54fb6ea0" name="Default Changelist" comment="Added variables &amp; Constructed quotes using these variables">
-      <change afterPath="$PROJECT_DIR$/h05/accountLogin/BasicLoginWithCheckUp/form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/accountLogin/BasicLoginWithCheckUp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/accountLogin/LoginWithAccountCheckUp/form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/accountLogin/LoginWithAccountCheckUp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h06/accounts/dbconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h06/university/dbconnect.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +49,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -59,8 +58,20 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../bin/mysql/data" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="console.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/6800c443-8332-4924-ae47-10b5e55dcfa3/console.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.console.sql" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -75,6 +86,8 @@
       <workItem from="1604669697911" duration="4515000" />
       <workItem from="1604762271990" duration="3600000" />
       <workItem from="1604993195246" duration="13084000" />
+      <workItem from="1605081350938" duration="5287000" />
+      <workItem from="1605165856040" duration="3317000" />
     </task>
     <task id="LOCAL-00001" summary="Shows the text HelloWorld">
       <created>1604505124374</created>
@@ -130,19 +143,65 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="637" y="206" key="#Options/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1604484400390" />
+    <state x="336" y="366" key="#SQL_Dialects" timestamp="1605167612206">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="336" y="366" key="#SQL_Dialects/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605167612206" />
+    <state x="387" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605169237409">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/-1920.0.1920.1050@0.0.1366.738" timestamp="1605084898687" />
+    <state x="387" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605169237409" />
     <state x="92" y="92" width="1736" height="866" key="DirDiffDialog" timestamp="1604508126539">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="92" y="92" width="1736" height="866" key="DirDiffDialog/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1604508126539" />
-    <state x="794" y="448" key="NewPhpFileDialog" timestamp="1605004964815">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1605082877060">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/-1920.0.1920.1050@0.0.1366.738" timestamp="1605082877060" />
+    <state width="1208" height="284" key="GridCell.Tab.0.bottom" timestamp="1605169199185">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="905" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738/-1920.0.1920.1050@0.0.1366.738" timestamp="1605081998924" />
+    <state width="1208" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605169199185" />
+    <state width="1208" height="284" key="GridCell.Tab.0.center" timestamp="1605169199184">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="905" height="182" key="GridCell.Tab.0.center/0.0.1366.738/-1920.0.1920.1050@0.0.1366.738" timestamp="1605081998923" />
+    <state width="1208" height="284" key="GridCell.Tab.0.center/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605169199184" />
+    <state width="1208" height="284" key="GridCell.Tab.0.left" timestamp="1605169199184">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="905" height="182" key="GridCell.Tab.0.left/0.0.1366.738/-1920.0.1920.1050@0.0.1366.738" timestamp="1605081998922" />
+    <state width="1208" height="284" key="GridCell.Tab.0.left/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605169199184" />
+    <state width="1208" height="284" key="GridCell.Tab.0.right" timestamp="1605169199185">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="905" height="182" key="GridCell.Tab.0.right/0.0.1366.738/-1920.0.1920.1050@0.0.1366.738" timestamp="1605081998923" />
+    <state width="1208" height="284" key="GridCell.Tab.0.right/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605169199185" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1605166718642">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605166718642" />
+    <state x="565" y="315" key="NewPhpFileDialog" timestamp="1605082137942">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="565" y="315" key="NewPhpFileDialog/0.0.1366.738/-1920.0.1920.1050@0.0.1366.738" timestamp="1605082137942" />
     <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605004964815" />
     <state x="2485" y="410" key="NewPhpFileDialog/0.0.1920.1050/1920.95.1366.738@1920.95.1366.738" timestamp="1604660241232" />
     <state x="552" y="245" key="Vcs.Push.Dialog.v2" timestamp="1604512135902">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="245" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1604512135902" />
+    <state x="846" y="412" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1605168383295">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="846" y="412" width="316" height="244" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605168383295" />
+    <state x="756" y="345" width="408" height="355" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1605167968807">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="756" y="345" width="408" height="355" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605167968807" />
     <state x="756" y="263" key="webDeployment.PermissionsDialog.Tabs" timestamp="1604483430677">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
