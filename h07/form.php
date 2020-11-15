@@ -21,7 +21,7 @@ if(isset($_POST['submit'])
         "password" => $users[$_POST["login"]] ['password'],
         "roll" => $users[$_POST["login"]] ['roll']);
 
-    $message = "Welkom ".$_SESSION["user"] ["name"]." met de rol ".$_SESSION["user"]["roll"];
+    $message = "Welcome ".$_SESSION["user"] ["name"]." logged in as ".$_SESSION["user"]["roll"];
 } else {
     $message = "Log In";
 }
