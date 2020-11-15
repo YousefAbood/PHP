@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94a45ef0-89d6-41c4-a175-36bb54fb6ea0" name="Default Changelist" comment="Added variables &amp; Constructed quotes using these variables">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h07/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/h07/form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h07/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +88,8 @@
       <workItem from="1604993195246" duration="13084000" />
       <workItem from="1605081350938" duration="5287000" />
       <workItem from="1605165856040" duration="13220000" />
+      <workItem from="1605340684250" duration="2771000" />
+      <workItem from="1605429040163" duration="3460000" />
     </task>
     <task id="LOCAL-00001" summary="Shows the text HelloWorld">
       <created>1604505124374</created>
@@ -184,11 +186,11 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605166718642" />
-    <state x="565" y="315" key="NewPhpFileDialog" timestamp="1605082137942">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="794" y="448" key="NewPhpFileDialog" timestamp="1605432640809">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="565" y="315" key="NewPhpFileDialog/0.0.1366.738/-1920.0.1920.1050@0.0.1366.738" timestamp="1605082137942" />
-    <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605004964815" />
+    <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050/1920.95.1366.738@0.0.1920.1050" timestamp="1605432640809" />
     <state x="2485" y="410" key="NewPhpFileDialog/0.0.1920.1050/1920.95.1366.738@1920.95.1366.738" timestamp="1604660241232" />
     <state x="552" y="245" key="Vcs.Push.Dialog.v2" timestamp="1604512135902">
       <screen x="0" y="0" width="1920" height="1050" />
